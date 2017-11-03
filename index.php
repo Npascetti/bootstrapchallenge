@@ -14,6 +14,15 @@
 	</head>
 	<body>
 		<div class="container">
+			<nav class="navbar">
+				<div class="col-8">Title</div>
+				<div class="col-1">Link 1</div>
+				<div class="col-1">Link 2</div>
+				<div class="col-1">Link 3</div>
+				<div class="col-1">Link 4</div>
+			</nav>
+		</div>
+		<div class="container">
 			<div class="jumbotron">
 				<h1 class="display-3">Hello, world!</h1>
 				<p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
