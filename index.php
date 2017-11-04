@@ -31,17 +31,20 @@
 				</p>
 			</div>
 		</div>
-		<div class="container-fluid">
+		<div class="container-fluid bg-secondary p-5">
+			<div class="container">
 			<div class="row">
 				<div class="col-3">
 					<div class="thumbnail">
-						<img src="http://www.fillmurray.com/200/300" alt="filler" style="width:100% height:50%"/>
+						<img src="http://www.fillmurray.com/200/200" alt="filler" style="width:100% height:50%"/>
 					</div>
 				</div>
 				<div class="col-9">
-					<p>Lorem Ipusm</p>
+					<p>It's a very cold picture, I may have to go get my coat. It's about to freeze me to death. You can spend all day playing with mountains. I started painting as a hobby when I was little. I didn't know I had any talent. I believe talent is just a pursued interest. Anybody can do what I do. You can do it. Put it in, leave it alone.</p>
+					<p>The only thing worse than yellow snow is green snow. Remember how free clouds are. They just lay around in the sky all day long. These trees are so much fun. I get started on them and I have a hard time stopping. We don't have anything but happy trees here.</p>
 				</div>
 			</div>
+		</div>
 		</div>
 	</body>
 </html>
