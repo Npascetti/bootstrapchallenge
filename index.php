@@ -31,7 +31,7 @@
 				</p>
 			</div>
 		</div>
-		<div class="container-fluid bg-secondary p-5">
+		<div class="container-fluid bg-secondary p-5 mb-5">
 			<div class="container">
 			<div class="row">
 				<div class="col-3 d-flex align-items-center">
@@ -45,7 +45,33 @@
 		</div>
 		</div>
 		<div class="container">
+			<div class = "row">
 
+				<div class = "col-sm-6 col-md-3">
+					<a href = "https://placebear.com/200/200" class = "thumbnail">
+						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle">
+					</a>
+				</div>
+
+				<div class = "col-sm-6 col-md-3">
+					<a href = "#" class = "thumbnail">
+						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle">
+					</a>
+				</div>
+
+				<div class = "col-sm-6 col-md-3">
+					<a href = "#" class = "thumbnail">
+						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle">
+					</a>
+				</div>
+
+				<div class = "col-sm-6 col-md-3">
+					<a href = "#" class = "thumbnail">
+						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle">
+					</a>
+				</div>
+
+			</div>
 		</div>
 	</body>
 </html>
