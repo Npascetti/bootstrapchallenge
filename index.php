@@ -45,51 +45,57 @@
 		</div>
 		</div>
 		<div class="container mb-4">
-			<div class = "row">
+			<div class = "row d-flex justify-content-between">
 
 				<div class = "col-sm-6 col-md-3">
-					<a href = "https://placebear.com/200/200" class = "thumbnail">
-						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4">
-					</a>
-					<div class = "caption border bg-light">
-						<p class="text-center">
-							Just take out whatever you don't want. It'll change your entire perspective. Remember how free clouds are. They just lay around in the sky all day long. Be careful. You can always add more - but you can't take it away.
-						</p>
-					</div>
-				</div>
-
-				<div class = "col-sm-6 col-md-3">
-					<a href = "https://placebear.com/200/200" class = "thumbnail">
-						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4">
-					</a>
-					<div class = "caption border bg-light">
-						<p class="text-center">
-							Just take out whatever you don't want. It'll change your entire perspective. Remember how free clouds are. They just lay around in the sky all day long. Be careful. You can always add more - but you can't take it away.
-						</p>
-					</div>
-				</div>
-
-				<div class = "col-sm-6 col-md-3">
-					<a href = "https://placebear.com/200/200" class = "thumbnail">
-						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4">
-					</a>
-					<div class = "caption border bg-light">
-						<p class="text-center">
-							Just take out whatever you don't want. It'll change your entire perspective. Remember how free clouds are. They just lay around in the sky all day long. Be careful. You can always add more - but you can't take it away.
-						</p>
-					</div>
-				</div>
-
-				<div class = "col-sm-6 col-md-3">
-					<div class="thumbnail ">
-						<a href = "https://placebear.com/200/200" class = "thumbnail">
-							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4">
-						</a>
-						<div class = "caption border rounded bg-light">
-							<p class="text-center">
-								Just take out whatever you don't want. It'll change your entire perspective. Remember how free clouds are. They just lay around in the sky all day long. Be careful. You can always add more - but you can't take it away.
-							</p>
+					<div class="thumbnail">
+						<div>
+							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
 						</div>
+						<figure class = " figure-caption border rounded bg-light">
+							<figcaption class="text-center">
+								Let's get crazy. Isn't it great to do something you can't fail at? Let's make a happy little mountain now. You don't have to be crazy to do this but it does help. If you don't like it - change it. It's your world.
+							</figcaption>
+						</figure>
+					</div>
+				</div>
+
+				<div class = "col-sm-6 col-md-3">
+					<div class="thumbnail">
+						<div>
+							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
+						</div>
+						<figure class = " figure-caption border rounded bg-light">
+							<figcaption class="text-center">
+								That's a crooked tree. We'll send him to Washington. Just let this happen. We just let this flow right out of our minds. Just think about these things in your mind and drop em' on canvas. And just raise cain. Isn't it great.
+							</figcaption>
+						</figure>
+					</div>
+				</div>
+
+				<div class = "col-sm-6 col-md-3">
+					<div class="thumbnail">
+						<div>
+							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
+						</div>
+						<figure class = " figure-caption border rounded bg-light">
+							<figcaption class="text-center">
+								These trees are so much fun. I get started on them and I have a hard time stopping. You can create beautiful things - but you have to see them in your mind first. We need dark in order to show light.
+							</figcaption>
+						</figure>
+					</div>
+				</div>
+
+				<div class = "col-sm-6 col-md-3">
+					<div class="thumbnail">
+						<div>
+							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
+						</div>
+						<figure class = " figure-caption border rounded bg-light">
+							<figcaption class="text-center">
+								Just take out whatever you don't want. It'll change your entire perspective. Remember how free clouds are. They just lay around in the sky all day long. Be careful. You can always add more - but you can't take it away.
+							</figcaption>
+						</figure>
 					</div>
 				</div>
 
