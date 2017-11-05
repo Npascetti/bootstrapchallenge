@@ -14,12 +14,24 @@
 	</head>
 	<body>
 		<div class="container">
-			<nav class="navbar navbar-link bg-light mb-3 mt-3 border border-dark rounded">
-				<div class="col-8"><h3>Title</h3></div>
-				<div class="col-1"><a href="mylink">Link 1</a></div>
-				<div class="col-1"><a href="mylink">Link 2</a></div>
-				<div class="col-1"><a href="mylink">Link 3</a></div>
-				<div class="col-1"><a href="mylink">Link 4</a></div>
+			<nav class="navbar navbar-expand-md navbar-light bg-light mb-3 mt-3 border border-dark rounded">
+				<a class="navbar-brand" href="#">Bob Ross</a>
+				<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item ">
+							<a class="nav-link" href="#">Cottage</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Squirrel</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Trees</a>
+						</li>
+					</ul>
+				</div>
 			</nav>
 		</div>
 		<div class="container">
@@ -50,7 +62,7 @@
 				<div class = "col-sm-6 col-md-3">
 					<div class="thumbnail">
 						<div>
-							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
+							<img src = "https://placebear.com/202/202" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
 						</div>
 						<figure class = " figure-caption border rounded bg-light">
 							<figcaption class="text-center">
@@ -63,7 +75,7 @@
 				<div class = "col-sm-6 col-md-3">
 					<div class="thumbnail">
 						<div>
-							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
+							<img src = "https://placebear.com/201/201" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
 						</div>
 						<figure class = " figure-caption border rounded bg-light">
 							<figcaption class="text-center">
@@ -76,7 +88,7 @@
 				<div class = "col-sm-6 col-md-3">
 					<div class="thumbnail">
 						<div>
-							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
+							<img src = "https://placebear.com/199/199" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
 						</div>
 						<figure class = " figure-caption border rounded bg-light">
 							<figcaption class="text-center">
@@ -89,7 +101,7 @@
 				<div class = "col-sm-6 col-md-3">
 					<div class="thumbnail">
 						<div>
-							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
+							<img src = "https://placebear.com/198/198" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img" style="width: 100%;"/>
 						</div>
 						<figure class = " figure-caption border rounded bg-light">
 							<figcaption class="text-center">
