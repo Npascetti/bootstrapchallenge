@@ -24,10 +24,10 @@
 		</div>
 		<div class="container">
 			<div class="jumbotron mt-5 mb-5">
-				<h1 class="display-2">Hello, world!</h1>
+				<h1 class="display-2">Happy, little trees!</h1>
 				<p class="lead">Let's make some happy little clouds in our world. In life you need colors. And right there you got an almighty cloud.</p>
 				<p class="lead">
-					<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+					<a class="btn btn-primary btn-lg" href="#" role="button">Tree me</a>
 				</p>
 			</div>
 		</div>
@@ -103,7 +103,8 @@
 		</div>
 		<div class="container-fluid text-muted bg-dark" style="min-height: 6rem">
 			<footer class="footer">
-				<p class="d-flex justify-content-center m-0">Use your imagination, let it go.</p>
+				<p class="d-flex justify-content-center m-0 py-5">Use your imagination, let it go.  Anything. As long as you believe.
+				</p>
 			</footer>
 		</div>
 	</body>
