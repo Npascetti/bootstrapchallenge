@@ -44,34 +44,61 @@
 			</div>
 		</div>
 		</div>
-		<div class="container">
+		<div class="container mb-4">
 			<div class = "row">
 
 				<div class = "col-sm-6 col-md-3">
 					<a href = "https://placebear.com/200/200" class = "thumbnail">
-						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle">
+						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4">
 					</a>
+					<div class = "caption border bg-light">
+						<p class="text-center">
+							Just take out whatever you don't want. It'll change your entire perspective. Remember how free clouds are. They just lay around in the sky all day long. Be careful. You can always add more - but you can't take it away.
+						</p>
+					</div>
 				</div>
 
 				<div class = "col-sm-6 col-md-3">
-					<a href = "#" class = "thumbnail">
-						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle">
+					<a href = "https://placebear.com/200/200" class = "thumbnail">
+						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4">
 					</a>
+					<div class = "caption border bg-light">
+						<p class="text-center">
+							Just take out whatever you don't want. It'll change your entire perspective. Remember how free clouds are. They just lay around in the sky all day long. Be careful. You can always add more - but you can't take it away.
+						</p>
+					</div>
 				</div>
 
 				<div class = "col-sm-6 col-md-3">
-					<a href = "#" class = "thumbnail">
-						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle">
+					<a href = "https://placebear.com/200/200" class = "thumbnail">
+						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4">
 					</a>
+					<div class = "caption border bg-light">
+						<p class="text-center">
+							Just take out whatever you don't want. It'll change your entire perspective. Remember how free clouds are. They just lay around in the sky all day long. Be careful. You can always add more - but you can't take it away.
+						</p>
+					</div>
 				</div>
 
 				<div class = "col-sm-6 col-md-3">
-					<a href = "#" class = "thumbnail">
-						<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle">
-					</a>
+					<div class="thumbnail ">
+						<a href = "https://placebear.com/200/200" class = "thumbnail">
+							<img src = "https://placebear.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4">
+						</a>
+						<div class = "caption border rounded bg-light">
+							<p class="text-center">
+								Just take out whatever you don't want. It'll change your entire perspective. Remember how free clouds are. They just lay around in the sky all day long. Be careful. You can always add more - but you can't take it away.
+							</p>
+						</div>
+					</div>
 				</div>
 
 			</div>
+		</div>
+		<div class="container-fluid text-muted bg-dark">
+			<footer class="footer">
+				<p class="d-flex justify-content-center m-0">Use your imagination, let it go.</p>
+			</footer>
 		</div>
 	</body>
 </html>
