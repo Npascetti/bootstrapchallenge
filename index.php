@@ -113,7 +113,7 @@
 
 			</div>
 		</div>
-		<div class="container-fluid text-muted bg-dark" style="min-height: 6rem">
+		<div class="container-fluid text-muted bg-dark mt-5" style="min-height: 6rem">
 			<footer class="footer">
 				<p class="d-flex justify-content-center m-0 py-5">Use your imagination, let it go.  Anything. As long as you believe.
 				</p>
