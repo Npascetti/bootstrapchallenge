@@ -47,9 +47,9 @@
 			<div class="container">
 			<div class="row">
 				<div class="col-md-3 d-flex align-items-center justify-content-center ">
-						<img src="http://www.fillmurray.com/250/250" alt="filler" class="img-responsive col-xs-12""/>
+						<img src="http://www.fillmurray.com/250/250" alt="filler" class="img-fluid col-xs-12 d-block""/>
 				</div>
-				<div class="col-md-9"">
+				<div class="col-md-9 text-justify"">
 					<p class="pl-1 pt-3">It's a very cold picture, I may have to go get my coat. It's about to freeze me to death. You can spend all day playing with mountains. I started painting as a hobby when I was little. I didn't know I had any talent. I believe talent is just a pursued interest. Anybody can do what I do. You can do it. Put it in, leave it alone. And just raise cain. If you didn't have baby clouds, you wouldn't have big clouds. And that's when it becomes fun - you don't have to spend your time thinking about what's happening - you just let it happen.</p>
 					<p class="pl-1">The only thing worse than yellow snow is green snow. Remember how free clouds are. They just lay around in the sky all day long. These trees are so much fun. I get started on them and I have a hard time stopping. We don't have anything but happy trees here. We'll do another happy little painting. In life you need color. This is truly an almighty mountain. Let's do it again then, what the heck. This is your world.  </p>
 				</div>
@@ -59,10 +59,10 @@
 		<div class="container mb-4">
 			<div class = "row d-flex justify-content-between">
 
-				<div class = "col-sm-6 col-md-3">
-					<div class="thumbnail">
+				<div class = "col-sm-6 col-lg-3">
+					<div class="thumbnail text-center">
 						<div>
-							<img src = "http://www.fillmurray.com/202/202" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img w-100">
+							<img src = "http://www.fillmurray.com/202/202" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img w-90">
 						</div>
 						<figure class = " figure-caption border rounded bg-light">
 							<figcaption class="text-center">
@@ -72,10 +72,10 @@
 					</div>
 				</div>
 
-				<div class = "col-sm-6 col-md-3">
-					<div class="thumbnail">
+				<div class = "col-sm-6 col-lg-3">
+					<div class="thumbnail text-center">
 						<div>
-							<img src = "http://www.fillmurray.com/201/201" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img w-100"/>
+							<img src = "http://www.fillmurray.com/201/201" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-image w-90"/>
 						</div>
 						<figure class = " figure-caption border rounded bg-light">
 							<figcaption class="text-center">
@@ -85,10 +85,10 @@
 					</div>
 				</div>
 
-				<div class = "col-sm-6 col-md-3">
-					<div class="thumbnail">
+				<div class = "col-sm-6 col-lg-3">
+					<div class="thumbnail text-center">
 						<div>
-							<img src = "http://www.fillmurray.com/199/199" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img w-100"/>
+							<img src = "http://www.fillmurray.com/199/199" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img w-90"/>
 						</div>
 						<figure class = " figure-caption border rounded bg-light">
 							<figcaption class="text-center">
@@ -98,10 +98,10 @@
 					</div>
 				</div>
 
-				<div class = "col-sm-6 col-md-3">
-					<div class="thumbnail">
+				<div class = "col-sm-6 col-lg-3">
+					<div class="thumbnail text-center">
 						<div>
-							<img src = "http://www.fillmurray.com/205/205" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img w-100"/>
+							<img src = "http://www.fillmurray.com/200/200" alt = "Generic placeholder thumbnail" class="rounded-circle mb-4 mx-auto figure-img w-90"/>
 						</div>
 						<figure class = " figure-caption border rounded bg-light">
 							<figcaption class="text-center">
@@ -114,7 +114,7 @@
 			</div>
 		</div>
 		<div class="container-fluid text-muted bg-dark mt-5" style="min-height: 6rem">
-			<footer class="footer">
+			<footer class="footer bg-dark fixed-bottom">
 				<p class="d-flex justify-content-center m-0 py-5">Use your imagination, let it go.  Anything. As long as you believe.
 				</p>
 			</footer>
